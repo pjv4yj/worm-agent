@@ -1,0 +1,303 @@
+{
+  "source_url": "http://nitrogenczslprh3xyw6lh5xyjvmsz7ciljoqxxknd7uymkfetfhgvqd.onion",
+  "victims": [
+    {
+      "company_name": "Ocean Edge Resort & Golf Club",
+      "is_public": false,
+      "date_impacted": "Unknown",
+      "data_leaked": "No",
+      "industry": "Hospitality",
+      "sec_10k_data": null,
+      "ransomware_group": "Nitrogen Ransomware Group"
+    },
+    {
+      "company_name": "F&P Georgia Mfg Inc",
+      "is_public": false,
+      "date_impacted": "Unknown",
+      "data_leaked": "Yes",
+      "industry": "Automotive",
+      "sec_10k_data": null,
+      "ransomware_group": "Nitrogen Ransomware Group"
+    },
+    {
+      "company_name": "Palm Bay International",
+      "is_public": false,
+      "date_impacted": "Unknown",
+      "data_leaked": "Yes",
+      "industry": "Beverage Distribution",
+      "sec_10k_data": null,
+      "ransomware_group": "Nitrogen Ransomware Group"
+    },
+    {
+      "company_name": "C3 Group",
+      "is_public": false,
+      "date_impacted": "Unknown",
+      "data_leaked": "Yes",
+      "industry": "Engineering",
+      "sec_10k_data": null,
+      "ransomware_group": "Nitrogen Ransomware Group"
+    },
+    {
+      "company_name": "Kirkor Architects and Planners",
+      "is_public": false,
+      "date_impacted": "Unknown",
+      "data_leaked": "Yes",
+      "industry": "Architecture",
+      "sec_10k_data": null,
+      "ransomware_group": "Nitrogen Ransomware Group"
+    },
+    {
+      "company_name": "Coweta County School System",
+      "is_public": false,
+      "date_impacted": "Unknown",
+      "data_leaked": "Yes",
+      "industry": "Education",
+      "sec_10k_data": null,
+      "ransomware_group": "Nitrogen Ransomware Group"
+    },
+    {
+      "company_name": "Seneca Gaming & Entertainment",
+      "is_public": false,
+      "date_impacted": "Unknown",
+      "data_leaked": "Yes",
+      "industry": "Gaming",
+      "sec_10k_data": null,
+      "ransomware_group": "Nitrogen Ransomware Group"
+    },
+    {
+      "company_name": "Stadtwerke Schwerte GmbH",
+      "is_public": false,
+      "date_impacted": "Unknown",
+      "data_leaked": "Yes",
+      "industry": "Utilities",
+      "sec_10k_data": null,
+      "ransomware_group": "Nitrogen Ransomware Group"
+    },
+    {
+      "company_name": "M'AR De AR Hotels",
+      "is_public": false,
+      "date_impacted": "Unknown",
+      "data_leaked": "Yes",
+      "industry": "Hospitality",
+      "sec_10k_data": null,
+      "ransomware_group": "Nitrogen Ransomware Group"
+    },
+    {
+      "company_name": "Global Media Group",
+      "is_public": false,
+      "date_impacted": "Unknown",
+      "data_leaked": "Yes",
+      "industry": "Media",
+      "sec_10k_data": null,
+      "ransomware_group": "Nitrogen Ransomware Group"
+    },
+    {
+      "company_name": "AKTO",
+      "is_public": false,
+      "date_impacted": "Unknown",
+      "data_leaked": "Yes",
+      "industry": "Digital Learning",
+      "sec_10k_data": null,
+      "ransomware_group": "Nitrogen Ransomware Group"
+    },
+    {
+      "company_name": "SIRIUS S.R.L.",
+      "is_public": false,
+      "date_impacted": "Unknown",
+      "data_leaked": "Yes",
+      "industry": "Energy Automation",
+      "sec_10k_data": null,
+      "ransomware_group": "Nitrogen Ransomware Group"
+    },
+    {
+      "company_name": "Research Electronics International",
+      "is_public": false,
+      "date_impacted": "Unknown",
+      "data_leaked": "Yes",
+      "industry": "Security Equipment",
+      "sec_10k_data": null,
+      "ransomware_group": "Nitrogen Ransomware Group"
+    },
+    {
+      "company_name": "SRP Federal Credit Union",
+      "is_public": false,
+      "date_impacted": "Unknown",
+      "data_leaked": "Yes",
+      "industry": "Financial",
+      "sec_10k_data": null,
+      "ransomware_group": "Nitrogen Ransomware Group"
+    },
+    {
+      "company_name": "Kilgore Industries",
+      "is_public": false,
+      "date_impacted": "Unknown",
+      "data_leaked": "Yes",
+      "industry": "Construction",
+      "sec_10k_data": null,
+      "ransomware_group": "Nitrogen Ransomware Group"
+    },
+    {
+      "company_name": "Fireproof Contractors Inc",
+      "is_public": false,
+      "date_impacted": "Unknown",
+      "data_leaked": "Yes",
+      "industry": "Construction",
+      "sec_10k_data": null,
+      "ransomware_group": "Nitrogen Ransomware Group"
+    },
+    {
+      "company_name": "A Beautiful Pools Inc",
+      "is_public": false,
+      "date_impacted": "Unknown",
+      "data_leaked": "Yes",
+      "industry": "Construction",
+      "sec_10k_data": null,
+      "ransomware_group": "Nitrogen Ransomware Group"
+    },
+    {
+      "company_name": "CW Lighting, LLC",
+      "is_public": false,
+      "date_impacted": "Unknown",
+      "data_leaked": "Yes",
+      "industry": "Lighting",
+      "sec_10k_data": null,
+      "ransomware_group": "Nitrogen Ransomware Group"
+    },
+    {
+      "company_name": "Locke Solutions, LLC",
+      "is_public": false,
+      "date_impacted": "Unknown",
+      "data_leaked": "Yes",
+      "industry": "Construction",
+      "sec_10k_data": null,
+      "ransomware_group": "Nitrogen Ransomware Group"
+    },
+    {
+      "company_name": "Tejas Office Products, Inc.",
+      "is_public": false,
+      "date_impacted": "Unknown",
+      "data_leaked": "Yes",
+      "industry": "Office Supplies",
+      "sec_10k_data": null,
+      "ransomware_group": "Nitrogen Ransomware Group"
+    },
+    {
+      "company_name": "Mission Constructors, Inc.",
+      "is_public": false,
+      "date_impacted": "Unknown",
+      "data_leaked": "Yes",
+      "industry": "Construction",
+      "sec_10k_data": null,
+      "ransomware_group": "Nitrogen Ransomware Group"
+    },
+    {
+      "company_name": "Red Barrels",
+      "is_public": false,
+      "date_impacted": "Unknown",
+      "data_leaked": "Yes",
+      "industry": "Video Game Development",
+      "sec_10k_data": null,
+      "ransomware_group": "Nitrogen Ransomware Group"
+    },
+    {
+      "company_name": "Ottawa Valley Handrailing Company Ltd",
+      "is_public": false,
+      "date_impacted": "Unknown",
+      "data_leaked": "Yes",
+      "industry": "Manufacturing",
+      "sec_10k_data": null,
+      "ransomware_group": "Nitrogen Ransomware Group"
+    },
+    {
+      "company_name": "Labib Funk Associates",
+      "is_public": false,
+      "date_impacted": "Unknown",
+      "data_leaked": "Yes",
+      "industry": "Architecture",
+      "sec_10k_data": null,
+      "ransomware_group": "Nitrogen Ransomware Group"
+    },
+    {
+      "company_name": "Akromold",
+      "is_public": false,
+      "date_impacted": "Unknown",
+      "data_leaked": "Yes",
+      "industry": "Manufacturing",
+      "sec_10k_data": null,
+      "ransomware_group": "Nitrogen Ransomware Group"
+    },
+    {
+      "company_name": "IDEALEASE INC",
+      "is_public": false,
+      "date_impacted": "Unknown",
+      "data_leaked": "Yes",
+      "industry": "Truck Leasing",
+      "sec_10k_data": null,
+      "ransomware_group": "Nitrogen Ransomware Group"
+    },
+    {
+      "company_name": "MDSi INC",
+      "is_public": false,
+      "date_impacted": "Unknown",
+      "data_leaked": "Yes",
+      "industry": "Material Handling",
+      "sec_10k_data": null,
+      "ransomware_group": "Nitrogen Ransomware Group"
+    },
+    {
+      "company_name": "Brechbuhler Scales Inc",
+      "is_public": false,
+      "date_impacted": "Unknown",
+      "data_leaked": "Yes",
+      "industry": "Weighing Solutions",
+      "sec_10k_data": null,
+      "ransomware_group": "Nitrogen Ransomware Group"
+    },
+    {
+      "company_name": "Magenta Photo Studio",
+      "is_public": false,
+      "date_impacted": "Unknown",
+      "data_leaked": "Yes",
+      "industry": "Photography",
+      "sec_10k_data": null,
+      "ransomware_group": "Nitrogen Ransomware Group"
+    },
+    {
+      "company_name": "Spectrum Industries",
+      "is_public": false,
+      "date_impacted": "Unknown",
+      "data_leaked": "Yes",
+      "industry": "Furniture Manufacturing",
+      "sec_10k_data": null,
+      "ransomware_group": "Nitrogen Ransomware Group"
+    },
+    {
+      "company_name": "Control Panels USA",
+      "is_public": false,
+      "date_impacted": "Unknown",
+      "data_leaked": "Yes",
+      "industry": "Control Panel Solutions",
+      "sec_10k_data": null,
+      "ransomware_group": "Nitrogen Ransomware Group"
+    },
+    {
+      "company_name": "Spectaire Holdings Inc",
+      "is_public": true,
+      "date_impacted": "Unknown",
+      "data_leaked": "Yes",
+      "industry": "Pollution & Treatment Controls",
+      "sec_10k_data": {
+        "filing_type": "Various (Form 8-K)",
+        "filing_date": "Multiple",
+        "filing_url": "Refer to detailed descriptions under Spectaire Holdings Inc.",
+        "summary": "Spectaire Holdings Inc. faced financial instability affecting cybersecurity-related investments, with reports on resignation of auditors, delisting events, default trigger events, and other operational challenges. No direct cybersecurity incidents noted but financial distress can impact broader risk management."
+      },
+      "ransomware_group": "Nitrogen Ransomware Group"
+    }
+  ],
+  "analysis_summary": "This report documents an analysis of ransomware incidents attributed to the Nitrogen Ransomware Group, focusing on 33 companies impacted by attacks. The analysis reveals that Spectaire Holdings Inc. is the only publicly traded entity among the victims. While most companies were private, all victims suffered data leaks, potentially causing significant reputational and operational damage. The financial instability of Spectaire Holdings may influence their capacity to manage cybersecurity threats due to reduction in resources. The industries affected ranged widely from automotive, engineering, and gaming to hospitality, highlighting the group's broad target spectrum.",
+  "total_victims": 33,
+  "public_companies": 1,
+  "private_companies": 32,
+  "confirmed_leaks": 32
+}

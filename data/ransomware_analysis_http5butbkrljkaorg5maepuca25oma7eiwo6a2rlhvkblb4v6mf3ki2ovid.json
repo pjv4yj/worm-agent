@@ -1,0 +1,28 @@
+{
+  "source_url": "http://5butbkrljkaorg5maepuca25oma7eiwo6a2rlhvkblb4v6mf3ki2ovid.onion/",
+  "victims": [
+    {
+      "company_name": "Ambitek",
+      "is_public": false,
+      "date_impacted": "2025-08-21",
+      "data_leaked": "yes",
+      "industry": "Staffing & Recruiting",
+      "sec_10k_data": null,
+      "ransomware_group": "Space Bears"
+    },
+    {
+      "company_name": "All Truck Transportation Co",
+      "is_public": false,
+      "date_impacted": "2025-08-21",
+      "data_leaked": "yes",
+      "industry": "Transportation",
+      "sec_10k_data": null,
+      "ransomware_group": "Space Bears"
+    }
+  ],
+  "analysis_summary": "The analysis identified two companies impacted by the Space Bears ransomware group: Ambitek and All Truck Transportation Co. Both companies experienced data leaks, including databases, financial documents, and personal information of employees and clients. Neither company is publicly traded, hence no SEC filings are available for further financial analysis. The total number of victims is two, both being private companies, with both confirming data leaks.",
+  "total_victims": 2,
+  "public_companies": 0,
+  "private_companies": 2,
+  "confirmed_leaks": 2
+}

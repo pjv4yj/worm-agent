@@ -1,0 +1,19 @@
+{
+  "source_url": "http://ciphbitqyg26jor7eeo6xieyq7reouctefrompp6ogvhqjba7uo4xdid.onion/",
+  "victims": [
+    {
+      "company_name": "iptelecom GmbH",
+      "is_public": false,
+      "date_impacted": "May 27, 2025",
+      "data_leaked": "yes",
+      "industry": "Telecommunications",
+      "sec_10k_data": null,
+      "ransomware_group": "CiphBit"
+    }
+  ],
+  "analysis_summary": "The ransomware group CiphBit has impacted iptelecom GmbH, a telecommunications company. Data leakage has been confirmed. No public companies were identified among the victims.",
+  "total_victims": 1,
+  "public_companies": 0,
+  "private_companies": 1,
+  "confirmed_leaks": 1
+}

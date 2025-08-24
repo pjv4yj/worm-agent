@@ -1,0 +1,37 @@
+{
+  "source_url": "http://ebhmkoohccl45qesdbvrjqtyro2hmhkmh6vkyfyjjzfllm3ix72aqaid.onion/leaks.php",
+  "victims": [
+    {
+      "company_name": "Wier Boerner Allin",
+      "is_public": false,
+      "date_impacted": "Unknown",
+      "data_leaked": "Yes",
+      "industry": "Architecture / Construction (Professional Services)",
+      "sec_10k_data": null,
+      "ransomware_group": "Interlock"
+    },
+    {
+      "company_name": "Pequannock Township School District",
+      "is_public": false,
+      "date_impacted": "Unknown",
+      "data_leaked": "Yes",
+      "industry": "Education (Public K–12 School District)",
+      "sec_10k_data": null,
+      "ransomware_group": "Interlock"
+    },
+    {
+      "company_name": "Box Elder County",
+      "is_public": false,
+      "date_impacted": "Unknown",
+      "data_leaked": "Yes",
+      "industry": "Government (County Administration)",
+      "sec_10k_data": null,
+      "ransomware_group": "Interlock"
+    }
+  ],
+  "analysis_summary": "Analysis of ransomware victims identified three entities, all impacted by the Interlock ransomware group. None are publicly traded or have SEC filings.\n\n1. Wier Boerner Allin, a private architecture firm, experienced data leaks of roughly 2,240 GB.\n2. Pequannock Township School District, a public school district, had 755 GB of data leaked.\n3. Box Elder County, a local government in Utah, suffered a data breach involving 4,500 GB of data.\n\nAll entities experienced data leakage, but detailed public financial or negotiation impacts are unavailable.",
+  "total_victims": 3,
+  "public_companies": 0,
+  "private_companies": 3,
+  "confirmed_leaks": 3
+}

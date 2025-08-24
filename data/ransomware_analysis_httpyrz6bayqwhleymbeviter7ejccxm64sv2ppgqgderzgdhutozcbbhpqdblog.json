@@ -1,0 +1,19 @@
+{
+  "source_url": "http://yrz6bayqwhleymbeviter7ejccxm64sv2ppgqgderzgdhutozcbbhpqd.onion/blog",
+  "victims": [
+    {
+      "company_name": "ACMARK s.r.o.",
+      "is_public": false,
+      "date_impacted": "12-Aug-2025",
+      "data_leaked": "unknown",
+      "industry": "Technology",
+      "sec_10k_data": null,
+      "ransomware_group": "Unknown"
+    }
+  ],
+  "analysis_summary": "The analysis included 1 company, ACMARK s.r.o., which was impacted by ransomware on 12-Aug-2025. Information suggests the data has not yet been leaked (countdown ongoing). The company operates as a private entity in the Technology sector, with no public SEC filings. The ransomware group responsible is unknown.",
+  "total_victims": 1,
+  "public_companies": 0,
+  "private_companies": 1,
+  "confirmed_leaks": 0
+}

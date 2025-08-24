@@ -1,0 +1,152 @@
+{
+  "source_url": "https://47glxkuxyayqrvugfumgsblrdagvrah7gttfscgzn56eyss5wg3uvmqd.onion/",
+  "victims": [
+    {
+      "company_name": "GMORS Co., Ltd",
+      "is_public": false,
+      "date_impacted": "2025-06-25",
+      "data_leaked": "Yes",
+      "industry": "Manufacturing",
+      "sec_10k_data": null,
+      "ransomware_group": "Unknown"
+    },
+    {
+      "company_name": "semex.com",
+      "is_public": false,
+      "date_impacted": "2025-04-15",
+      "data_leaked": "Yes",
+      "industry": "Research",
+      "sec_10k_data": null,
+      "ransomware_group": "Unknown"
+    },
+    {
+      "company_name": "shengyusteel.com",
+      "is_public": true,
+      "date_impacted": "2025-04-08",
+      "data_leaked": "Yes",
+      "industry": "Manufacturing",
+      "sec_10k_data": {
+        "filing_type": "Annual Financial Statements",
+        "filing_date": "2024-04-26",
+        "filing_url": "https://www.shengyusteel.com/en/news.aspx",
+        "summary": "The company released its financial statements for the year 2023, detailing financial performance and operational highlights."
+      },
+      "ransomware_group": "Unknown"
+    },
+    {
+      "company_name": "Afa Systems Ltd.",
+      "is_public": false,
+      "date_impacted": "2025-02-13",
+      "data_leaked": "Yes",
+      "industry": "Industrial Manufacturing",
+      "sec_10k_data": null,
+      "ransomware_group": "Unknown"
+    },
+    {
+      "company_name": "Simmtech Co., Ltd.",
+      "is_public": true,
+      "date_impacted": "2024-12-16",
+      "data_leaked": "Yes",
+      "industry": "Electronics Manufacturing",
+      "sec_10k_data": {
+        "filing_type": "Corporate Disclosure",
+        "filing_date": "Not specified",
+        "filing_url": "https://eng.simmtech.com/irpr/official.aspx",
+        "summary": "The company provides various corporate disclosures, including financial reports and investor relations materials."
+      },
+      "ransomware_group": "Unknown"
+    },
+    {
+      "company_name": "Casio Computer Co., Ltd",
+      "is_public": true,
+      "date_impacted": "2024-10-09",
+      "data_leaked": "Yes",
+      "industry": "Electronics Manufacturing",
+      "sec_10k_data": {
+        "filing_type": "Annual Report",
+        "filing_date": "Not specified",
+        "filing_url": "https://world.casio.com/ir/",
+        "summary": "Casio provides annual reports and other investor-related documents detailing financial performance and business operations."
+      },
+      "ransomware_group": "Unknown"
+    },
+    {
+      "company_name": "Ethypharm",
+      "is_public": false,
+      "date_impacted": "2024-07-01",
+      "data_leaked": "Yes",
+      "industry": "Pharmaceuticals",
+      "sec_10k_data": null,
+      "ransomware_group": "Unknown"
+    },
+    {
+      "company_name": "kc.co.kr",
+      "is_public": true,
+      "date_impacted": "2024-03-06",
+      "data_leaked": "Yes",
+      "industry": "Manufacturing",
+      "sec_10k_data": {
+        "filing_type": "Annual Report",
+        "filing_date": "Not specified",
+        "filing_url": "http://www.kccom.co.kr/eng/invest/ir.asp",
+        "summary": "The company offers annual reports and financial statements for investors."
+      },
+      "ransomware_group": "Unknown"
+    },
+    {
+      "company_name": "awwg.com",
+      "is_public": false,
+      "date_impacted": "2024-02-12",
+      "data_leaked": "Yes",
+      "industry": "Manufacturing",
+      "sec_10k_data": null,
+      "ransomware_group": "Unknown"
+    },
+    {
+      "company_name": "tpa-group.sk",
+      "is_public": false,
+      "date_impacted": "2023-07-31",
+      "data_leaked": "Yes",
+      "industry": "Business Services / Management Consulting",
+      "sec_10k_data": null,
+      "ransomware_group": "Unknown"
+    },
+    {
+      "company_name": "synology.com",
+      "is_public": false,
+      "date_impacted": "2023-07-18",
+      "data_leaked": "Yes",
+      "industry": "Manufacturing",
+      "sec_10k_data": null,
+      "ransomware_group": "Unknown"
+    },
+    {
+      "company_name": "frenckengroup.com",
+      "is_public": true,
+      "date_impacted": "2023-07-18",
+      "data_leaked": "Yes",
+      "industry": "Manufacturing",
+      "sec_10k_data": {
+        "filing_type": "Annual Report",
+        "filing_date": "Not specified",
+        "filing_url": "https://frenckengroup.listedcompany.com/ar.html",
+        "summary": "Frencken Group provides annual reports and financial statements detailing the company's performance and operations."
+      },
+      "ransomware_group": "Unknown"
+    },
+    {
+      "company_name": "bulldogbag.com",
+      "is_public": false,
+      "date_impacted": "2023-07-14",
+      "data_leaked": "Yes",
+      "industry": "Manufacturing",
+      "sec_10k_data": null,
+      "ransomware_group": "Unknown"
+    }
+  ],
+  "analysis_summary": "The analysis of the data from the .onion site reveals 13 victims of ransomware attacks. Leaks were confirmed for all entities, indicating a significant security breach impact. Among these companies, some are publicly traded, primarily on non-U.S. stock exchanges, leading to the availability of annual reports instead of SEC filings.\n\nThree public companies, Sheng Yu Steel Co., Ltd., Simmtech Co., Ltd., Casio Computer Co., Ltd., and Frencken Group Limited, provided detailed disclosures through their investor relations web pages or regional equivalents, granting insight into their financials and corporate strategies.\n\nThe synthesis shows private companies also impacted by ransomware threats, emphasizing a cross-industry vulnerability.",
+  "total_victims": 13,
+  "public_companies": 4,
+  "private_companies": 9,
+  "confirmed_leaks": 13
+}

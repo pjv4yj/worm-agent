@@ -1,0 +1,100 @@
+{
+  "source_url": "http://rnsm777cdsjrsdlbs4v5qoeppu3px6sb2igmh53jzrx7ipcrbjz5b2ad.onion/",
+  "victims": [
+    {
+      "company_name": "ADDA (adda.io)",
+      "is_public": false,
+      "date_impacted": "07 March 2025",
+      "data_leaked": "yes",
+      "industry": "Technology (SaaS for Residential Community Management)",
+      "sec_10k_data": null,
+      "ransomware_group": "RansomEXX"
+    },
+    {
+      "company_name": "Makesworth Accountants",
+      "is_public": false,
+      "date_impacted": "09 February 2025",
+      "data_leaked": "yes",
+      "industry": "Financial Services (Accounting & Tax Advisory)",
+      "sec_10k_data": null,
+      "ransomware_group": "RansomEXX"
+    },
+    {
+      "company_name": "Lakeshore Title Agency",
+      "is_public": false,
+      "date_impacted": "31 January 2025",
+      "data_leaked": "yes",
+      "industry": "Real Estate Services (Title Insurance & Escrow)",
+      "sec_10k_data": null,
+      "ransomware_group": "RansomEXX"
+    },
+    {
+      "company_name": "Grupo Vargas",
+      "is_public": false,
+      "date_impacted": "21 December 2024",
+      "data_leaked": "yes",
+      "industry": "Healthcare (Pharmaceuticals)",
+      "sec_10k_data": null,
+      "ransomware_group": "RansomEXX"
+    },
+    {
+      "company_name": "Retemex",
+      "is_public": false,
+      "date_impacted": "14 September 2024",
+      "data_leaked": "yes",
+      "industry": "Telecommunications (Mobile Virtual Network Operator)",
+      "sec_10k_data": null,
+      "ransomware_group": "RansomEXX"
+    },
+    {
+      "company_name": "Brontoo Technology Solutions India Private Limited",
+      "is_public": false,
+      "date_impacted": "10 August 2024",
+      "data_leaked": "yes",
+      "industry": "Technology (IT Services & Consulting)",
+      "sec_10k_data": null,
+      "ransomware_group": "RansomEXX"
+    },
+    {
+      "company_name": "NURSING.com",
+      "is_public": false,
+      "date_impacted": "03 August 2024",
+      "data_leaked": "yes",
+      "industry": "Education (Online Learning Platform)",
+      "sec_10k_data": null,
+      "ransomware_group": "RansomEXX"
+    },
+    {
+      "company_name": "LITEON Technology Corporation",
+      "is_public": true,
+      "date_impacted": "26 July 2024",
+      "data_leaked": "yes",
+      "industry": "Manufacturing (Electronics)",
+      "sec_10k_data": null,
+      "ransomware_group": "RansomEXX"
+    },
+    {
+      "company_name": "Planet Group International",
+      "is_public": false,
+      "date_impacted": "26 July 2024",
+      "data_leaked": "yes",
+      "industry": "Technology (Solutions & Consulting)",
+      "sec_10k_data": null,
+      "ransomware_group": "RansomEXX"
+    },
+    {
+      "company_name": "Wagner-Meinert",
+      "is_public": false,
+      "date_impacted": "08 July 2024",
+      "data_leaked": "yes",
+      "industry": "Manufacturing (Industrial Refrigeration & Food Processing Systems)",
+      "sec_10k_data": null,
+      "ransomware_group": "RansomEXX"
+    }
+  ],
+  "analysis_summary": "The RansomEXX ransomware group has impacted a wide range of industries, primarily targeting small and medium-sized enterprises. Of the ten victims, only LITEON Technology Corporation is publicly traded, listed on the Taiwan Stock Exchange (TPE). As a foreign issuer, LITEON does not file with the U.S. SEC. The majority of the companies targeted are privately held and span industries such as technology, finance, healthcare, and manufacturing. All attacks resulted in data leaks, indicating a consistent strategy by RansomEXX to monetize both encrypted and stolen data.",
+  "total_victims": 10,
+  "public_companies": 1,
+  "private_companies": 9,
+  "confirmed_leaks": 10
+}

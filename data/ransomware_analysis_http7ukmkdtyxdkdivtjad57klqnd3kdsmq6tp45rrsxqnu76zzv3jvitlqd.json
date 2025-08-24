@@ -1,0 +1,177 @@
+{
+  "source_url": "http://7ukmkdtyxdkdivtjad57klqnd3kdsmq6tp45rrsxqnu76zzv3jvitlqd.onion/",
+  "victims": [
+    {
+      "company_name": "Insurance Office of America (US)",
+      "is_public": false,
+      "date_impacted": "Unknown",
+      "data_leaked": "yes",
+      "sec_10k_data": null,
+      "ransomware_group": "DAIXIN Team"
+    },
+    {
+      "company_name": "Communicare Inc. (US)",
+      "is_public": false,
+      "date_impacted": "Unknown",
+      "data_leaked": "yes",
+      "sec_10k_data": null,
+      "ransomware_group": "DAIXIN Team"
+    },
+    {
+      "company_name": "SGS Co. (US)",
+      "is_public": true,
+      "date_impacted": "Unknown",
+      "data_leaked": "yes",
+      "sec_10k_data": {
+        "filing_type": "Integrated Report",
+        "filing_date": "February 11, 2025",
+        "filing_url": "https://sustainabilityreports.com/reports/sgs-sa-2024-integrated-report-pdf/",
+        "summary": "The 2024 Integrated Report highlights SGS's financial and sustainable performance, including reduced emissions and acquisitions."
+      },
+      "ransomware_group": "DAIXIN Team"
+    },
+    {
+      "company_name": "Acadian Ambulance (US)",
+      "is_public": false,
+      "date_impacted": "Unknown",
+      "data_leaked": "yes",
+      "sec_10k_data": null,
+      "ransomware_group": "DAIXIN Team"
+    },
+    {
+      "company_name": "Dubai Municipality (UAE)",
+      "is_public": false,
+      "date_impacted": "Unknown",
+      "data_leaked": "yes",
+      "sec_10k_data": null,
+      "ransomware_group": "DAIXIN Team"
+    },
+    {
+      "company_name": "Omni Hotels & Resorts (US)",
+      "is_public": false,
+      "date_impacted": "Unknown",
+      "data_leaked": "yes",
+      "sec_10k_data": null,
+      "ransomware_group": "DAIXIN Team"
+    },
+    {
+      "company_name": "Graphic Solutions Group Inc. (US)",
+      "is_public": false,
+      "date_impacted": "Unknown",
+      "data_leaked": "yes",
+      "sec_10k_data": null,
+      "ransomware_group": "DAIXIN Team"
+    },
+    {
+      "company_name": "North Texas Municipal Water District (US)",
+      "is_public": false,
+      "date_impacted": "Unknown",
+      "data_leaked": "yes",
+      "sec_10k_data": null,
+      "ransomware_group": "DAIXIN Team"
+    },
+    {
+      "company_name": "Bluewater Health (CA)",
+      "is_public": false,
+      "date_impacted": "Unknown",
+      "data_leaked": "yes",
+      "sec_10k_data": null,
+      "ransomware_group": "DAIXIN Team"
+    },
+    {
+      "company_name": "Columbus Regional Healthcare System (US)",
+      "is_public": false,
+      "date_impacted": "Unknown",
+      "data_leaked": "yes",
+      "sec_10k_data": null,
+      "ransomware_group": "DAIXIN Team"
+    },
+    {
+      "company_name": "Hit Promotional Products (US)",
+      "is_public": false,
+      "date_impacted": "Unknown",
+      "data_leaked": "yes",
+      "sec_10k_data": null,
+      "ransomware_group": "DAIXIN Team"
+    },
+    {
+      "company_name": "B&G Foods, Inc. (US, CA)",
+      "is_public": true,
+      "date_impacted": "Unknown",
+      "data_leaked": "yes",
+      "sec_10k_data": {
+        "filing_type": "10-K",
+        "filing_date": "February 28, 2024",
+        "filing_url": "https://bgfoods.gcs-web.com/sec-filings/sec-filing/10-k/0001558370-24-001996?utm_source=openai",
+        "summary": "The comprehensive annual report provides an overview of B&G Foods' financial performance and strategic initiatives for the fiscal year."
+      },
+      "ransomware_group": "DAIXIN Team"
+    },
+    {
+      "company_name": "Guardian Analytics (US)",
+      "is_public": false,
+      "date_impacted": "Unknown",
+      "data_leaked": "yes",
+      "sec_10k_data": null,
+      "ransomware_group": "DAIXIN Team"
+    },
+    {
+      "company_name": "Astra Daihatsu Motor (ID)",
+      "is_public": false,
+      "date_impacted": "Unknown",
+      "data_leaked": "yes",
+      "sec_10k_data": null,
+      "ransomware_group": "DAIXIN Team"
+    },
+    {
+      "company_name": "AirAsia Group (MY, ID, TH)",
+      "is_public": true,
+      "date_impacted": "Unknown",
+      "data_leaked": "yes",
+      "sec_10k_data": {
+        "filing_type": "Annual Report",
+        "filing_date": "December 31, 2024",
+        "filing_url": "https://hareation.com/airasia-investor-relations/",
+        "summary": "The report provides insights into AirAsia's financial and operational performance, along with steps to enhance cybersecurity post-ransomware attack."
+      },
+      "ransomware_group": "DAIXIN Team"
+    },
+    {
+      "company_name": "OakBend Medical (US)",
+      "is_public": false,
+      "date_impacted": "Unknown",
+      "data_leaked": "yes",
+      "sec_10k_data": null,
+      "ransomware_group": "DAIXIN Team"
+    },
+    {
+      "company_name": "ista International GmbH (DE)",
+      "is_public": false,
+      "date_impacted": "Unknown",
+      "data_leaked": "yes",
+      "sec_10k_data": null,
+      "ransomware_group": "DAIXIN Team"
+    },
+    {
+      "company_name": "Trib Total Media (US)",
+      "is_public": false,
+      "date_impacted": "Unknown",
+      "data_leaked": "yes",
+      "sec_10k_data": null,
+      "ransomware_group": "DAIXIN Team"
+    },
+    {
+      "company_name": "Fitzgibbon Hospital (US)",
+      "is_public": false,
+      "date_impacted": "Unknown",
+      "data_leaked": "yes",
+      "sec_10k_data": null,
+      "ransomware_group": "DAIXIN Team"
+    }
+  ],
+  "analysis_summary": "The DAIXIN Team ransomware group has impacted 19 known organizations in a variety of sectors, predominantly in healthcare and industry services. Most data leaks include personally identifiable information (PII) and sensitive internal documents. While predominantly targeting private entities, three public companies, SGS Co., B&G Foods, Inc., and AirAsia Group, have also been affected. Data leak incidents have varying levels of severity, with most providing access to substantial amounts of internal data and PII. Publicly available financial data indicates a strategic shift among affected public companies towards increased cybersecurity measures.",
+  "total_victims": 19,
+  "public_companies": 3,
+  "private_companies": 16,
+  "confirmed_leaks": 19
+}
